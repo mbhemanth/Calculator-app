@@ -1,0 +1,19 @@
+📱 Java Calculator App
+
+A simple and efficient Calculator Application built using Java.
+This project performs basic arithmetic operations and demonstrates clean code structure, OOP concepts, and Java Swing UI (if your version uses GUI).
+
+
+---
+
+🚀 Features
+
+➕ Addition
+
+➖ Subtraction
+
+✖️ Multiplication
+
+➗ Division
+
+🔄 Clear / Reset option
